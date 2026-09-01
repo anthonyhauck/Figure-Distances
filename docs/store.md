@@ -7,7 +7,6 @@ icon: https://anthonyhauck.github.io/figure-distances/images/figure-distances.pn
 tags:
   - tool
   - combat
-  - other
 manifest: https://anthonyhauck.github.io/figure-distances/manifest.json
 learn-more: https://github.com/anthonyhauck/figure-distances
 ---
